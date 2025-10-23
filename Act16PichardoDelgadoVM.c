@@ -33,7 +33,7 @@ return p;
 
 int main()
  {
-    char centinela = 'n';
+    char centinela = 's';
     int num=0;
 
     do
