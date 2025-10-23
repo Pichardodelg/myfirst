@@ -29,9 +29,9 @@ git commit -m "Descripción de los cambios"
 3. Sube los cambios al repositorio remoto:
 
 ```
-git push origin main
+git push origin master
 ```
 
-Recuerda reemplazar "main" con la rama a la que deseas subir los cambios.
+Recuerda reemplazar "master" con la rama a la que deseas subir los cambios.
 
 ¡Y eso es todo! Ahora sabes cómo clonar, modificar y subir cambios a un repositorio de GitHub. Este es solo un punto de partida; hay muchas más características y flujos de trabajo que puedes explorar a medida que te familiarices con Git y GitHub.
